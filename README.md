@@ -8,12 +8,12 @@
 
 Overview
 Title: Personal Portfolio - Annu Priya       
-Tech Stack: HTML, CSS, JavaScript, Bootstrap, jQuery, AOS (for animations)      
-Purpose: To highlight your expertise in Web Development, showcase your projects, and provide a way for clients to contact you.
-📌 Key Features
-1️⃣ Navigation Bar
-A sticky top navigation bar with links to:
-Home, Services, About, Portfolio, Testimonials, Blog, and Contact.
+Tech Stack: HTML, CSS, JavaScript, Bootstrap, jQuery, AOS (for animations)             
+Purpose: To highlight your expertise in Web Development, showcase your projects, and provide a way for clients to contact you.           
+📌 Key Features         
+1️⃣ Navigation Bar            
+A sticky top navigation bar with links to:          
+Home, Services, About, Portfolio, Testimonials, Blog, and Contact.      
 A hamburger menu for mobile users.
 CTA button for quick access to contact details.
 2️⃣ Home Section
