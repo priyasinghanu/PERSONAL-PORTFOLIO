@@ -1,26 +1,19 @@
 # PERSONAL-PORTFOLIO
+*Compny*: CODTECH IT SOLUTIONS    
+*NAME*: Annu Priya      
+*INTERN ID*: CT08RKN       
+*DOMAIN*: FRONTED END DEVELOPER       
+*DURATION*: 4 WEEKS      
+## CODE DESCRIPTION OR WEBSITE 
 
+ Functionality:
 
-Quiz Functionality:
-
-   -> The quiz consists of 7 predefined  questions related to computer science.
-   -> Answers are evaluated in green.
-   -> Incoreect answers are marked in red.
-   -> Users can proceed to the next question after submitting in answer.
+   -> The quiz consists of 7 predefined  questions related to computer science.   
+   -> Answers are evaluated in green.    
+   -> Incoreect answers are marked in red.   
+   -> Users can proceed to the next question after submitting in answer.     
 
 ## OUTPUT link given below:
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![Image](https://github.com/user-attachments/assets/ff262613-a6da-4070-a163-6a980b4f5b6e)
 
