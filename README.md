@@ -8,7 +8,7 @@
 
 Overview
 Title: Personal Portfolio - Sazia Moin
-Tech Stack: HTML, CSS, JavaScript, Bootstrap, jQuery, AOS (for animations)    
+Tech Stack: HTML, CSS, JavaScript, Bootstrap, jQuery, AOS (for animations)      
 Purpose: To highlight your expertise in Web Development, showcase your projects, and provide a way for clients to contact you.
 📌 Key Features
 1️⃣ Navigation Bar
