@@ -7,7 +7,7 @@
 ## CODE DESCRIPTION OR WEBSITE 
 
 Overview
-Title: Personal Portfolio - Sazia Moin
+Title: Personal Portfolio - Annu Priya       
 Tech Stack: HTML, CSS, JavaScript, Bootstrap, jQuery, AOS (for animations)      
 Purpose: To highlight your expertise in Web Development, showcase your projects, and provide a way for clients to contact you.
 📌 Key Features
